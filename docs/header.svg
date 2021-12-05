@@ -45,7 +45,7 @@
                 
             </style>
             <div class="container">
-                <img width="180" alt="ICON" src="https://github.com/captain-otter/yet-another-homepage/blob/main/public/icons/favicon-128x128.png"/>
+                <img width="180" alt="ICON" src="https://github.com/captain-otter/yet-another-homepage/blob/main/public/icons/favicon-128x128.png?raw=true"/>
                 <h2>Yet Another Dashboard (YAH)</h2>
                 <h3>A simple, static but highly customizable homepage.</h3>
             </div>
