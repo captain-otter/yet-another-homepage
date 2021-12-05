@@ -1,0 +1,34 @@
+title: Home
+author: Captain
+dark: true
+showLinks: true
+stylesheet: "/assets/themes/default/custom.css"
+applications:
+  - title: Getting Started
+    entries:
+      - name: "Quick Start"
+        icon: "/assets/themes/default/icons/yet-another-homepage.svg"
+        url: "https://github.com/captain-otter/yet-another-homepage/blob/master/docs/quick-start.md"
+      - name: "Documentation"
+        icon: "fas fa-book"
+        url: "https://github.com/captain-otter/yet-another-homepage"
+      - name: "Contribute"
+        icon: "fab fa-github"
+        url: "https://github.com/captain-otter/yet-another-homepage"
+  - title: About
+    entries:
+      - name: "About Me"
+        icon: "/assets/themes/default/icons/captain-otter.svg"
+        url: "https://captainotter.com/about"
+      - name: "Support Me"
+        icon: "/assets/themes/default/icons/kofi.svg"
+        url: "https://ko-fi.com/captainotter"
+bookmarks:
+  - title: Self Hosting
+    entries:
+      - name: Awesome Selfhosted
+        url: 'https://github.com/awesome-selfhosted/awesome-selfhosted'
+        icon: fas fa-list
+      - name: /r/selfhosted
+        url: 'https://www.reddit.com/r/selfhosted/'
+        icon: fab fa-reddit-alien

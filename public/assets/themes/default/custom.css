@@ -1,0 +1,86 @@
+#pageContainer {
+  background: url("/assets/themes/default/backgrounds/bg-sand.jpeg");
+  background-size: cover;
+}
+
+#page {
+  width: 90%;
+}
+
+#greetingText {
+  color: rgb(255, 255, 255);
+}
+
+#dateTimeText {
+  color: rgb(255, 255, 255);
+}
+
+#applicationsText {
+  color: rgb(255, 255, 255);
+}
+
+#appList {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  /* border:rgba(0, 0, 0,0.25); */
+  color: rgb(0, 0, 0);
+  /* border-style: solid; */
+}
+
+#appListTitle {
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 5px 5px 0px 0px;
+  color: rgb(255, 255, 255);
+}
+
+#appListItem:hover {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+#appImageIcon {
+  /* filter: invert(1); */
+}
+
+#appFontIcon {
+  color: rgb(255, 255, 255);
+}
+
+#appName {
+  color: rgb(255, 255, 255);
+}
+
+#appLink {
+  color: rgb(255, 206, 170);
+}
+
+#bookmarksText {
+  color: rgb(255, 255, 255);
+}
+
+#bookmarkList {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+}
+
+#bookmarkListTitle {
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 5px 5px 0px 0px;
+  color: rgb(255, 255, 255);
+}
+
+#bookmarkListItem:hover {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+#bookmarkImageIcon {
+  /* filter: invert(1); */
+}
+
+#bookmarkFontIcon {
+  color: rgb(255, 255, 255);
+}
+
+#bookmarkText {
+  color: rgb(255, 255, 255);
+}
