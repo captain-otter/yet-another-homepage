@@ -68,7 +68,7 @@
                       size="3em"
                       v-if="isValidPath(application.icon)"
                     >
-                      <img :src="application.icon" />
+                      <img :src="application.icon" style="image-rendering: -webkit-optimize-contrast;"/>
                     </q-avatar>
                     <q-icon
                       id="appFontIcon"

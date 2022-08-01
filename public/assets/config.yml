@@ -21,7 +21,7 @@ applications:
         icon: "/assets/themes/default/icons/captain-otter.svg"
         url: "https://captainotter.com/about"
       - name: "Support Me"
-        icon: "/assets/themes/default/icons/kofi.svg"
+        icon: "/assets/themes/default/icons/pgadmin.png"
         url: "https://ko-fi.com/captainotter"
 bookmarks:
   - title: Self Hosting

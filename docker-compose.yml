@@ -1,0 +1,8 @@
+version: '3'
+services:
+  chat-server:
+    image: yah
+    volumes:
+      - "C:/Users/Rashad/Desktop/yah:/www/assets"
+    ports:
+      - "8080:8080"
